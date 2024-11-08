@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucam\\Desktop\\testculuca\\PatientFinal\\PatientFinal\\PatientFinal.csproj": {}
+    "/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/PatientFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucam\\Desktop\\testculuca\\PatientFinal\\PatientFinal\\PatientFinal.csproj": {
+    "/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/PatientFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucam\\Desktop\\testculuca\\PatientFinal\\PatientFinal\\PatientFinal.csproj",
+        "projectUniqueName": "/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/PatientFinal.csproj",
         "projectName": "PatientFinal",
-        "projectPath": "C:\\Users\\lucam\\Desktop\\testculuca\\PatientFinal\\PatientFinal\\PatientFinal.csproj",
-        "packagesPath": "C:\\Users\\lucam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucam\\Desktop\\testculuca\\PatientFinal\\PatientFinal\\obj\\",
+        "projectPath": "/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/PatientFinal.csproj",
+        "packagesPath": "/Users/daniel/.nuget/packages/",
+        "outputPath": "/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/daniel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,13 +55,13 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )",
+              "version": "[8.0.8, )",
               "autoReferenced": true
             }
           },
@@ -82,7 +79,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.10, 8.0.10]"
+              "version": "[8.0.8, 8.0.8]"
             }
           ],
           "frameworkReferences": {
@@ -90,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

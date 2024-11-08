@@ -13,43 +13,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = PatientFinal
 build_property.RootNamespace = PatientFinal
-build_property.ProjectDir = C:\Users\lucam\Desktop\testculuca\PatientFinal\PatientFinal\
+build_property.ProjectDir = /Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\lucam\Desktop\testculuca\PatientFinal\PatientFinal
+build_property.MSBuildProjectDirectory = /Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/lucam/Desktop/testculuca/PatientFinal/PatientFinal/App.razor]
+[/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucam/Desktop/testculuca/PatientFinal/PatientFinal/Pages/BookingPage.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1BhZ2UucmF6b3I=
+[/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/Pages/BookingPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va2luZ1BhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucam/Desktop/testculuca/PatientFinal/PatientFinal/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucam/Desktop/testculuca/PatientFinal/PatientFinal/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucam/Desktop/testculuca/PatientFinal/PatientFinal/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucam/Desktop/testculuca/PatientFinal/PatientFinal/_Imports.razor]
+[/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/lucam/Desktop/testculuca/PatientFinal/PatientFinal/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-r3r9vcejck
+[/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-y0oqrta506
 
-[C:/Users/lucam/Desktop/testculuca/PatientFinal/PatientFinal/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-qr1rih2stx
+[/Users/daniel/Downloads/TestCuLuca/PatientFinal/PatientFinal/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-po695bg9zc
