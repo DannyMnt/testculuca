@@ -1,4 +1,4 @@
-# JetBrains Rider
+≠# JetBrains Rider
 .idea/
 *.sln.iml
 *.suo
@@ -20,3 +20,5 @@ $RECYCLE.BIN/
 *.lnk
 /Doctor/bin/Debug
 /PatientFinal/PatientFinal/bin/Debug
+/PatientFinal/PatientFinal/obj/Debug/net8.0
+/PatientFinal/PatientFinal/obj/Debug
