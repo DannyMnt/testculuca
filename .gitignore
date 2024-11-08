@@ -77,3 +77,4 @@ node_modules/
 # Ignore global Git ignore files
 .gitignore_global
 /PatientFinal/PatientFinal/bin/Debug
+/PatientFinal/PatientFinal/obj/Debug
