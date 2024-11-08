@@ -33,8 +33,6 @@ out/
 [Aa]ssembly/
 [Aa]ssemblyInfo.cs
 
-# Generated files for Blazor WebAssembly apps
-wwwroot/
 
 # Rider / IntelliJ IDEA cache and temp files
 .idea/.idea_modules/
