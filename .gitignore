@@ -18,3 +18,5 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 *.lnk
+/Doctor/bin/Debug
+/PatientFinal/PatientFinal/bin/Debug
